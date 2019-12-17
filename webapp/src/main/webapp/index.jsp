@@ -1,4 +1,17 @@
-<h1> Hello, Welcome to Simple DevOps Project Serge !!   </h1>
-<h2> Data Service Group is your learning partner </h2>
-<h2> Glad to see you here </h2>
-<h1> Good job Serge on learning Devops</h1>
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+
+<p style="font-size:50px;">DevOps is Amazing</p>
+<p style="color:red;">Your Life Quality Just Change.</p>
+<p style="color:blue;">Thanks For Trusting The Process.</p>
+
+
+
+</body>
+</html>
+
